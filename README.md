@@ -38,7 +38,7 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 ## *Fun Facts*
 *I am a sports person, I love Martial Arts, Swimming and Football.
 
-*I love to Exploring new places.
+*I love Exploring new places.
 
 *I describe myself Creatively Curious, innovative, and ever ready for adventures.
 
