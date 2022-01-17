@@ -63,7 +63,7 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&line_height=48&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&line_height=48&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-27&count_private=true&line_height=40&theme=dark">
 
 </p>
