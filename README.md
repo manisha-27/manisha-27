@@ -79,3 +79,5 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 <a href="https://singhmanisha28656.medium.com/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+[![Manisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=manisha-27&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
