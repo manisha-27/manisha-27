@@ -60,7 +60,6 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 <!-- --- -->
 
 ## **Github Stats:**
-
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&line_height=48&theme=dark">
@@ -69,7 +68,7 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 </p>
 
 <!-- --- -->
-
+![Manisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=manisha-27&theme=react-dark)
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
@@ -79,5 +78,3 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 <a href="https://singhmanisha28656.medium.com/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-[![Manisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=manisha-27&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
