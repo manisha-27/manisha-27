@@ -65,11 +65,9 @@ Frontend Developer  ||  Web Developer || Gamer || Tech Geek
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
-<a href="https://twitter.com/manisha87672782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manisha87672782" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manisha-singh-a3471616b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha-singh-a3471616b" height="30" width="40" /></a>
-<a href="https://medium.com/@singhmanisha28656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhmanisha28656" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/manisha_27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manisha_27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manisha270417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manisha270417" height="30" width="40" /></a>
-
+    <a target="_blank"href="https://www.linkedin.com/in/manisha-singh-a3471616b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/Manisha87672782"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:manisha270417@gmail.com?subject=Hey%20Manisha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://singhmanisha28656.medium.com/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
