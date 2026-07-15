@@ -1,73 +1,180 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=210&section=header&text=Hi%2C%20I'm%20Manisha%20%F0%9F%91%8B&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-<!--
-**manisha-27/manisha-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Kafka+%C2%B7+Redis+%C2%B7+Kubernetes+in+production;Product-minded%2C+not+just+ticket-minded;Building+toward+founding+something+of+my+own">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Kafka+%C2%B7+Redis+%C2%B7+Kubernetes+in+production;Product-minded%2C+not+just+ticket-minded;Building+toward+founding+something+of+my+own">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=4338CA&center=true&vCenter=true&width=620&lines=Backend+Engineer" alt="Typing SVG"/>
+</picture>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/manisha-singh-a3471616b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manisha270417@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/Manisha87672782" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://singhmanisha28656.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
+<img src="https://komarev.com/ghpvc/?username=manisha-27&label=Profile%20Views&color=4338CA&style=flat" alt="Profile views"/>
 
-<h1 align="center">Hi there 👋 I am  Manisha Singh  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/manisha-27/count.svg" />
-</p>
+</div>
 
-## *About Me:*
-Frontend Developer  ||  Web Developer || Gamer || Tech Geek 
+<br/>
 
-## *TechStack:*
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## About Me
 
+I'm a backend engineer based in Bangalore, working primarily in **Java and Spring Boot**, with production experience across **Kafka, Redis, Kubernetes, Grafana, and Jenkins**. I care less about shipping a ticket and more about understanding *why* the system needs to exist the way it does — that product-and-ownership mindset is deliberate, since the long-term plan is to build my own company someday.
 
+Right now I'm looking for my next backend role (SDE-1 / SDE-2), and freelancing as a backend developer for a healthcare SaaS product in the meantime.
 
-<!-- ## *Fun Facts*
-*I am a sports person, I love Martial Arts, Swimming and Football.
+- 🔭 Currently freelancing as a backend developer on a healthcare SaaS product
+- 🌱 Sharpening distributed-systems fundamentals — queues, caching, and failure recovery, not just APIs
+- 🎯 Open to backend engineering roles where I can own systems end-to-end
+- 💬 Ask me about Spring Boot, Kafka-backed services, or how I think about system ownership
+- ⚡ Long-term goal: founding my own company
 
-*I love Exploring new places.
+<br/>
 
-*I describe myself Creatively Curious, innovative, and ever ready for adventures. -->
+## Tech Stack
 
-<!--
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=manisha-278&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-278&count_private=true&line_height=40&theme=dark">
+<table width="100%">
+<tr>
+<td valign="top" width="20%"><b>Languages</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Java-4338CA?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-4338CA?style=flat-square&logo=javascript&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Spring%20Boot-4338CA?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-4338CA?style=flat-square&logo=fastapi&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data &amp; Messaging</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Apache%20Kafka-4338CA?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-4338CA?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4338CA?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Infra &amp; DevOps</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Docker-4338CA?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-4338CA?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-4338CA?style=flat-square&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-4338CA?style=flat-square&logo=git&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Observability</b></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Grafana-4338CA?style=flat-square&logo=grafana&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-</p>-->
+<br/>
 
-## **Github Streak:**
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=manisha-27&line_height=40&theme=dark">
-</p>
+## Experience
 
-<!-- --- -->
+<table width="100%">
+<tr><th align="left">When</th><th align="left">Role</th><th align="left">Focus</th></tr>
+<tr><td valign="top">Dec 2025 – Present</td><td valign="top"><b>Freelance Backend Developer</b><br/>Rediflex AB <i>(client: SmartCare AB)</i></td><td valign="top">Backend work on a healthcare SaaS product</td></tr>
+<tr><td valign="top">Nov 2024 – Dec 2025</td><td valign="top"><b>Backend Developer</b><br/>Licious <i>(started as Intern, promoted to full-time)</i></td><td valign="top">Core production backend experience</td></tr>
+<tr><td valign="top">Apr 2024 – Oct 2024</td><td valign="top"><b>Frontend Developer</b><br/>DataMetricks</td><td valign="top">Frontend engineering</td></tr>
+<tr><td valign="top">Dec 2023 – Mar 2024</td><td valign="top"><b>Software Engineer Intern</b><br/>mthree</td><td valign="top">Backend fundamentals in Java &amp; Spring Boot</td></tr>
+</table>
 
-## **Github Stats:**
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-27&count_private=true&line_height=40&theme=dark">
+<br/>
 
-</p>
+## Featured Projects
 
-<!-- --- -->
-![Manisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=manisha-27&theme=react-dark)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
- <h2 align="center">📫 Reach out to me on</h2>
-  <p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/manisha-singh-a3471616b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://twitter.com/Manisha87672782"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:manisha270417@gmail.com?subject=Hey%20Manisha,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://singhmanisha28656.medium.com/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+### OverSeer
+Patient monitoring dashboard for a healthcare setting. Owned the frontend authentication experience — the JWT-based login UI, built in ReactJS.
 
-</p>
+`ReactJS` `JWT Auth` `Healthcare`
+
+[Repository →](#) &nbsp;·&nbsp; [Live Demo →](#)
+
+</td>
+<td width="50%" valign="top">
+
+### Smart Inventory Management System
+A backend system for tracking and managing inventory, built with Java and Spring Boot, exposing RESTful APIs.
+
+`Java` `Spring Boot` `REST APIs`
+
+[Repository →](#) &nbsp;·&nbsp; [Live Demo →](#)
+
+</td>
+</tr>
+</table>
+
+<sub>Swap the <code>#</code> links above for your actual repo and demo URLs.</sub>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=A5B4FC&icon_color=A5B4FC&text_color=E2E8F0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&theme=default&hide_border=true&title_color=4338CA&icon_color=4338CA">
+  <img src="https://github-readme-stats.vercel.app/api?username=manisha-27&hide=stars&show_icons=true&theme=default" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manisha-27&theme=dark&hide_border=true&background=00000000&ring=A5B4FC&fire=A5B4FC&currStreakLabel=A5B4FC">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=manisha-27&theme=default&hide_border=true&ring=4338CA&fire=4338CA&currStreakLabel=4338CA">
+  <img src="https://streak-stats.demolab.com?user=manisha-27&theme=default" width="48%"/>
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-27&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=A5B4FC">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-27&layout=compact&theme=default&hide_border=true&title_color=4338CA">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha-27&layout=compact&theme=default" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=manisha-27&theme=onedark&no-frame=true&row=2&column=3&margin-w=8&margin-h=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=manisha-27&theme=flat&no-frame=true&row=2&column=3&margin-w=8&margin-h=8">
+  <img src="https://github-profile-trophy.vercel.app/?username=manisha-27&theme=flat&no-frame=true&row=2&column=3" width="48%"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=manisha-27&theme=react-dark&hide_border=true&bg_color=00000000&color=A5B4FC&line=A5B4FC&point=E2E8F0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=manisha-27&theme=minimal&hide_border=true&color=4338CA&line=4338CA&point=1E1B4B">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisha-27&theme=minimal" width="97%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+I'm actively talking to teams about backend roles — feel free to reach out.
+
+<a href="https://www.linkedin.com/in/manisha-singh-a3471616b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manisha270417@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/Manisha87672782" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://singhmanisha28656.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,100:0F172A&height=90&section=footer" width="100%"/>
+
+</div>
