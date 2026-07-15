@@ -89,7 +89,7 @@ Right now I'm looking for my next backend role (SDE-2), and freelancing as a bac
 
 <table width="100%">
 <tr><th align="left">When</th><th align="left">Role</th><th align="left">Focus</th></tr>
-<tr><td valign="top">Dec 2025 – Present</td><td valign="top"><b>Freelance Backend Developer</b><br/>Rediflex AB <i>(client: SmartCare AB)</i></td><td valign="top">Backend work on a healthcare SaaS product</td></tr>
+<tr><td valign="top">Jan 2026 – Present</td><td valign="top"><b>Freelance Backend Developer</b><br/>Rediflex AB <i>(client: SmartCare AB)</i></td><td valign="top">Backend work on a healthcare SaaS product</td></tr>
 <tr><td valign="top">Nov 2024 – Dec 2025</td><td valign="top"><b>Backend Developer</b><br/>Licious <i>(started as Intern, promoted to full-time)</i></td><td valign="top">Core production backend experience</td></tr>
 <tr><td valign="top">Apr 2024 – Oct 2024</td><td valign="top"><b>Frontend Developer</b><br/>DataMetricks</td><td valign="top">Frontend engineering</td></tr>
 <tr><td valign="top">Dec 2023 – Mar 2024</td><td valign="top"><b>Software Engineer Intern</b><br/>mthree</td><td valign="top">Backend fundamentals in Java &amp; Spring Boot</td></tr>
