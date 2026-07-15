@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="./assets/garden-banner.svg" width="100%" alt="A garden with butterflies in light mode; the same garden with moths and fireflies in dark mode"/>
+<!-- <img src="./assets/garden-banner.svg" width="100%" alt="A garden with butterflies in light mode; the same garden with moths and fireflies in dark mode"/> -->
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ## About Me
 
-I'm a backend engineer based in Bangalore, working primarily in **Java and Spring Boot**, with production experience across **Kafka, Redis, Kubernetes, Grafana, and Jenkins**. I care less about shipping a ticket and more about understanding *why* the system needs to exist the way it does — that product-and-ownership mindset is deliberate, since the long-term plan is to build my own company someday.
+I'm a backend engineer, working primarily in **Java and Spring Boot**, with production experience across **Kafka, Redis, Kubernetes, Grafana, and Jenkins**. I care less about shipping a ticket and more about understanding *why* the system needs to exist the way it does — that product-and-ownership mindset is deliberate, since the long-term plan is to build my own company someday.
 
 Right now I'm looking for my next backend role (SDE-1 / SDE-2), and freelancing as a backend developer for a healthcare SaaS product in the meantime.
 
@@ -46,7 +46,7 @@ Right now I'm looking for my next backend role (SDE-1 / SDE-2), and freelancing 
 <td valign="top" width="20%"><b>Languages</b></td>
 <td valign="top">
 <img src="https://img.shields.io/badge/Java-4338CA?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-4338CA?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-4338CA?style=flat-square&logo=cplusplus&logoColor=white"/>
 </td>
 </tr>
 <tr>
