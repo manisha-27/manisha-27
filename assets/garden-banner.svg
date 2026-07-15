@@ -1,0 +1,120 @@
+<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated garden banner">
+  <style>
+    <![CDATA[
+      .day { display: block; }
+      .night { display: none; }
+      @media (prefers-color-scheme: dark) {
+        .day { display: none; }
+        .night { display: block; }
+      }
+
+      .stem { fill: none; stroke-width: 2; }
+      .day .stem { stroke: #94a3b8; }
+      .night .stem { stroke: #475569; }
+
+      .petal-day { fill: #f0abfc; }
+      .center-day { fill: #f59e0b; }
+      .petal-night { fill: #a5b4fc; opacity: 0.9; }
+      .center-night { fill: #e2e8f0; }
+      .glow { fill: #818cf8; opacity: 0.3; }
+
+      @keyframes bloom {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.1); }
+      }
+      .flower { transform-box: fill-box; transform-origin: center; animation: bloom 4s ease-in-out infinite; }
+      .flower.d2 { animation-delay: 1.3s; }
+      .flower.d3 { animation-delay: 2.6s; }
+
+      @keyframes flap {
+        0%, 100% { transform: scaleX(1); }
+        50% { transform: scaleX(0.3); }
+      }
+      .wing { transform-box: fill-box; transform-origin: center; animation: flap 0.7s ease-in-out infinite; }
+      .night .wing { animation-duration: 1.4s; }
+
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 1; }
+      }
+      .firefly { animation: twinkle 2.4s ease-in-out infinite; }
+    ]]>
+  </style>
+
+  <defs>
+    <symbol id="flowerDay" viewBox="-20 -20 40 40">
+      <g class="petal-day">
+        <ellipse cx="0" cy="-10" rx="5" ry="9"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(72)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(144)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(216)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(288)"/>
+      </g>
+      <circle r="6" class="center-day"/>
+    </symbol>
+    <symbol id="flowerNight" viewBox="-20 -20 40 40">
+      <circle r="15" class="glow"/>
+      <g class="petal-night">
+        <ellipse cx="0" cy="-10" rx="5" ry="9"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(72)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(144)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(216)"/>
+        <ellipse cx="0" cy="-10" rx="5" ry="9" transform="rotate(288)"/>
+      </g>
+      <circle r="6" class="center-night"/>
+    </symbol>
+  </defs>
+
+  <!-- Day scene: butterflies and blooming flowers -->
+  <g class="day">
+    <path class="stem" d="M120,150 Q117,100 120,58"/>
+    <path class="stem" d="M500,150 Q497,95 500,55"/>
+    <path class="stem" d="M860,150 Q857,100 860,58"/>
+
+    <g class="flower" transform="translate(120,50)"><use href="#flowerDay" width="40" height="40" x="-20" y="-20"/></g>
+    <g class="flower d2" transform="translate(500,47)"><use href="#flowerDay" width="40" height="40" x="-20" y="-20"/></g>
+    <g class="flower d3" transform="translate(860,50)"><use href="#flowerDay" width="40" height="40" x="-20" y="-20"/></g>
+
+    <g>
+      <g class="wing" fill="#f472b6">
+        <path d="M0,0 C-14,-18 -14,-2 0,4 Z"/>
+        <path d="M0,0 C14,-18 14,-2 0,4 Z"/>
+      </g>
+      <line x1="0" y1="-4" x2="0" y2="6" stroke="#475569" stroke-width="1.5"/>
+      <animateMotion dur="15s" repeatCount="indefinite" rotate="auto" path="M20,115 C150,25 300,150 450,60 C600,-10 750,120 950,45"/>
+    </g>
+    <g>
+      <g class="wing" fill="#c4b5fd">
+        <path d="M0,0 C-12,-15 -12,-2 0,3 Z"/>
+        <path d="M0,0 C12,-15 12,-2 0,3 Z"/>
+      </g>
+      <line x1="0" y1="-3" x2="0" y2="5" stroke="#475569" stroke-width="1.5"/>
+      <animateMotion dur="19s" begin="-5s" repeatCount="indefinite" rotate="auto" path="M950,120 C800,30 650,145 500,70 C350,10 200,130 20,55"/>
+    </g>
+  </g>
+
+  <!-- Night scene: moths, moonflowers, fireflies -->
+  <g class="night">
+    <path class="stem" d="M120,150 Q117,100 120,58"/>
+    <path class="stem" d="M500,150 Q497,95 500,55"/>
+    <path class="stem" d="M860,150 Q857,100 860,58"/>
+
+    <g class="flower" transform="translate(120,50)"><use href="#flowerNight" width="40" height="40" x="-20" y="-20"/></g>
+    <g class="flower d2" transform="translate(500,47)"><use href="#flowerNight" width="40" height="40" x="-20" y="-20"/></g>
+    <g class="flower d3" transform="translate(860,50)"><use href="#flowerNight" width="40" height="40" x="-20" y="-20"/></g>
+
+    <g>
+      <g class="wing" fill="#818cf8" opacity="0.85">
+        <path d="M0,0 C-14,-16 -14,-2 0,4 Z"/>
+        <path d="M0,0 C14,-16 14,-2 0,4 Z"/>
+      </g>
+      <line x1="0" y1="-4" x2="0" y2="6" stroke="#cbd5e1" stroke-width="1.5"/>
+      <animateMotion dur="20s" repeatCount="indefinite" rotate="auto" path="M20,115 C150,25 300,150 450,60 C600,-10 750,120 950,45"/>
+    </g>
+
+    <circle class="firefly" cx="230" cy="90" r="2.5" fill="#fde68a"/>
+    <circle class="firefly" cx="600" cy="30" r="2" fill="#fde68a" style="animation-delay:0.8s"/>
+    <circle class="firefly" cx="760" cy="100" r="2.5" fill="#fde68a" style="animation-delay:1.6s"/>
+    <circle class="firefly" cx="380" cy="120" r="2" fill="#fde68a" style="animation-delay:2.2s"/>
+  </g>
+</svg>
