@@ -29,7 +29,7 @@
 
 I'm a backend engineer, working primarily in **Java and Spring Boot**, with production experience across **Kafka, Redis, Kubernetes, Grafana, and Jenkins**. I care less about shipping a ticket and more about understanding *why* the system needs to exist the way it does — that product-and-ownership mindset is deliberate, since the long-term plan is to build my own company someday.
 
-Right now I'm looking for my next backend role (SDE-1 / SDE-2), and freelancing as a backend developer for a healthcare SaaS product in the meantime.
+Right now I'm looking for my next backend role (SDE-2), and freelancing as a backend developer for a healthcare SaaS product in the meantime.
 
 - 🔭 Currently freelancing as a backend developer on a healthcare SaaS product
 - 🌱 Sharpening distributed-systems fundamentals — queues, caching, and failure recovery, not just APIs
