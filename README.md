@@ -10,14 +10,16 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/manisha-singh-a3471616b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manisha270417@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://twitter.com/Manisha87672782" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://singhmanisha28656.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/manisha27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manisha427.singh@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/Manishaaa27" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@manisha27/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=manisha-27&label=Profile%20Views&color=4338CA&style=flat" alt="Profile views"/>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- <img src="./assets/garden-banner.svg" width="100%" alt="A garden with butterflies in light mode; the same garden with moths and fireflies in dark mode"/> -->
 
@@ -216,12 +218,15 @@ A backend system for tracking and managing inventory, built with Java and Spring
 
 I'm actively talking to teams about backend roles — feel free to reach out.
 
-<a href="https://www.linkedin.com/in/manisha-singh-a3471616b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:manisha270417@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://twitter.com/Manisha87672782" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://singhmanisha28656.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<br/>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/manisha27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manisha427.singh@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/Manishaaa27" target="_blank"><img src="https://img.shields.io/badge/Twitter-4338CA?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://medium.com/@manisha27/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+
+
+<!-- <br/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,100:0F172A&height=90&section=footer" width="100%"/>
 
