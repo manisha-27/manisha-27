@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=210&section=header&text=Hi%2C%20I'm%20Manisha%20%F0%9F%91%8B&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4338CA&height=210&section=header&text=Hi%2C%20I'm%20Manisha%20%F0%9F%91%8B&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Java%2C%20Spring%20Boot%20%C2%B7%20Distributed%20Systems&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=620&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;Kafka+%C2%B7+Redis+%C2%B7+Kubernetes+in+production;Product-minded%2C+not+just+ticket-minded;Building+toward+founding+something+of+my+own">
@@ -16,6 +16,10 @@
 <a href="https://singhmanisha28656.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-4338CA?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=manisha-27&label=Profile%20Views&color=4338CA&style=flat" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="./assets/garden-banner.svg" width="100%" alt="A garden with butterflies in light mode; the same garden with moths and fireflies in dark mode"/>
 
 </div>
 
@@ -118,7 +122,7 @@ A backend system for tracking and managing inventory, built with Java and Spring
 </tr>
 </table>
 
-<sub>Swap the <code>#</code> links above for your actual repo and demo URLs.</sub>
+<!-- <sub>Swap the <code>#</code> links above for your actual repo and demo URLs.</sub> -->
 
 <br/>
 
@@ -159,6 +163,50 @@ A backend system for tracking and managing inventory, built with Java and Spring
 </picture>
 
 </div>
+
+<br/>
+
+## Coding Practice &amp; Latest Writing
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<b>LeetCode</b>
+
+<img src="https://leetcard.jacoblin.cool/27manisha?theme=light,dark&font=Karla" width="100%" alt="LeetCode stats"/>
+
+[View full profile →](https://leetcode.com/u/27manisha/)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center"><b>Latest Writing</b></div>
+
+<table width="100%">
+<!-- BLOG-POST-LIST:START -->
+<tr><td>
+
+**[Retries, Idempotency, and Duplicate Data: What Really Happens in Distributed Systems?](https://medium.com/@manisha27)**
+<br/><sub>Medium</sub>
+
+</td></tr>
+<tr><td>
+
+**[Future of Technology in Extended Reality](https://medium.com/@manisha27)**
+<br/><sub>Medium</sub>
+
+</td></tr>
+<!-- BLOG-POST-LIST:END -->
+</table>
+
+<div align="center"><a href="https://medium.com/@manisha27">Read more on Medium →</a></div>
+
+</td>
+</tr>
+</table>
+
+<!-- <sub>The Medium boxes refresh automatically once the workflow below is added to the repo — see setup notes.</sub> -->
 
 <br/>
 
