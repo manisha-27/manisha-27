@@ -186,16 +186,15 @@ A backend system for tracking and managing inventory, built with Java and Spring
 <div align="center"><b>Latest Writing</b></div>
 
 <table width="100%">
-<!-- BLOG-POST-LIST:START -->
-<tr><td>
+<!-- BLOG-POST-LIST:START --><tr><td>
 
-**[Retries, Idempotency, and Duplicate Data: What Really Happens in Distributed Systems?](https://medium.com/@manisha27)**
+**[Retries, Idempotency, and Duplicate Data: What Really Happens in Distributed Systems?](https://manisha27.medium.com/retries-idempotency-and-duplicate-data-what-really-happens-in-distributed-systems-c5d7eda0cdb5?source=rss-e6d8c7f12f5------2)**
 <br/><sub>Medium</sub>
 
 </td></tr>
 <tr><td>
 
-**[Future of Technology in Extended Reality](https://medium.com/@manisha27)**
+**[Future of Technology in Extended Reality](https://manisha27.medium.com/future-of-technology-in-extended-reality-96499d98b93?source=rss-e6d8c7f12f5------2)**
 <br/><sub>Medium</sub>
 
 </td></tr>
